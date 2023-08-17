@@ -42,7 +42,7 @@ export const AppliBar: React.FC <AppBarProps> = ({ title, text, link, handleOnSh
 
                      </Button>
                      </Link>
-
+asdfasd
 
                      
                                                               
